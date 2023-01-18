@@ -11,6 +11,8 @@ import { commit, version } from "./constants"
 import { register } from "./routes"
 import { humanPath, isDirectory, loadAMDModule, open } from "./util"
 
+// test 
+
 /**
  * Return true if the user passed an extension-related VS Code flag.
  */
